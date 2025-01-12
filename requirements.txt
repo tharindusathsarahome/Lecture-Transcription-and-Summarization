@@ -1,0 +1,6 @@
+moviepy
+faster-whisper
+langchain
+tenacity
+markdown
+google-api-python-client
